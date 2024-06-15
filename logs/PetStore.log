@@ -47,3 +47,59 @@
 [INFO ] 2024-06-13 17:44:38.318 [main] UserTests2 - ************ Deleting User ******************
 [INFO ] 2024-06-13 17:44:39.934 [main] UserTests2 - ************ User Deleted ******************
 [INFO ] 2024-06-14 03:20:19.689 [main] UserTests2 - ************ Creating User ******************
+[INFO ] 2024-06-15 15:46:38.151 [main] StoreTests - ************* Creating order ****************
+[INFO ] 2024-06-15 15:46:41.427 [main] StoreTests - ************* Fetching order ID****************
+[INFO ] 2024-06-15 15:46:41.951 [main] StoreTests - ************* Order ID Fetched****************
+[INFO ] 2024-06-15 15:46:41.979 [main] StoreTests - ************* Order created ****************
+[INFO ] 2024-06-15 15:47:46.315 [main] StoreTests - ************* Creating order ****************
+[INFO ] 2024-06-15 15:47:49.618 [main] StoreTests - ************* Fetching order ID****************
+[INFO ] 2024-06-15 15:47:50.099 [main] StoreTests - ************* Order ID Fetched****************
+[INFO ] 2024-06-15 15:47:50.125 [main] StoreTests - ************* Order created ****************
+[INFO ] 2024-06-15 15:51:43.095 [main] StoreTests - ************* Creating order ****************
+[INFO ] 2024-06-15 15:51:46.156 [main] StoreTests - ************* Fetching order ID****************
+[INFO ] 2024-06-15 15:51:46.678 [main] StoreTests - ************* Order ID Fetched****************
+[INFO ] 2024-06-15 15:51:46.711 [main] StoreTests - ************* Order created ****************
+[INFO ] 2024-06-15 15:51:46.717 [main] StoreTests - ************* Getting order by ID****************
+[INFO ] 2024-06-15 15:51:48.233 [main] StoreTests - ************* Got Order Details****************
+[INFO ] 2024-06-15 15:55:49.344 [main] StoreTests - ************* Creating order ****************
+[INFO ] 2024-06-15 15:55:52.538 [main] StoreTests - ************* Fetching order ID****************
+[INFO ] 2024-06-15 15:55:52.998 [main] StoreTests - ************* Order ID Fetched****************
+[INFO ] 2024-06-15 15:55:53.031 [main] StoreTests - ************* Order created ****************
+[INFO ] 2024-06-15 15:55:53.038 [main] StoreTests - ************* Getting order by ID****************
+[INFO ] 2024-06-15 15:55:54.679 [main] StoreTests - ************* Got Order Details****************
+[INFO ] 2024-06-15 16:02:00.504 [main] UserTests - ************ Creating User ******************
+[INFO ] 2024-06-15 16:02:03.654 [main] UserTests - ************ User Created ******************
+[INFO ] 2024-06-15 16:02:03.665 [main] UserTests - ************ Reading User Info ******************
+[INFO ] 2024-06-15 16:02:05.243 [main] UserTests - ************ User info is Displayed ******************
+[INFO ] 2024-06-15 16:02:05.245 [main] UserTests - ************ Updating User ******************
+[INFO ] 2024-06-15 16:02:08.318 [main] UserTests - ************ User Updated ******************
+[INFO ] 2024-06-15 16:02:08.319 [main] UserTests - ************ Deleting User ******************
+[INFO ] 2024-06-15 16:02:09.865 [main] UserTests - ************ User Deleted ******************
+[INFO ] 2024-06-15 16:02:09.909 [main] UserTests2 - ************ Creating User ******************
+[INFO ] 2024-06-15 16:02:11.385 [main] UserTests2 - ************ User Created ******************
+[INFO ] 2024-06-15 16:02:11.387 [main] UserTests2 - ************ Reading User Info ******************
+[INFO ] 2024-06-15 16:02:12.919 [main] UserTests2 - ************ User info is Displayed ******************
+[INFO ] 2024-06-15 16:02:12.920 [main] UserTests2 - ************ Updating User ******************
+[INFO ] 2024-06-15 16:02:15.992 [main] UserTests2 - ************ User Updated ******************
+[INFO ] 2024-06-15 16:02:15.994 [main] UserTests2 - ************ Deleting User ******************
+[INFO ] 2024-06-15 16:02:17.533 [main] UserTests2 - ************ User Deleted ******************
+[INFO ] 2024-06-15 16:02:18.548 [main] DDTests - ************* Creating User DDT started ****************
+[INFO ] 2024-06-15 16:02:20.088 [main] DDTests - ************* Creating User DDT Ended ****************
+[INFO ] 2024-06-15 16:02:20.091 [main] DDTests - ************* Creating User DDT started ****************
+[INFO ] 2024-06-15 16:02:21.622 [main] DDTests - ************* Creating User DDT Ended ****************
+[INFO ] 2024-06-15 16:02:21.622 [main] DDTests - ************* Creating User DDT started ****************
+[INFO ] 2024-06-15 16:02:23.158 [main] DDTests - ************* Creating User DDT Ended ****************
+[INFO ] 2024-06-15 16:02:23.213 [main] DDTests - ************* Deleting User by Name Started ****************
+[INFO ] 2024-06-15 16:02:24.695 [main] DDTests - ************* Deleting user by Name Ended ****************
+[INFO ] 2024-06-15 16:02:24.696 [main] DDTests - ************* Deleting User by Name Started ****************
+[INFO ] 2024-06-15 16:02:26.230 [main] DDTests - ************* Deleting user by Name Ended ****************
+[INFO ] 2024-06-15 16:02:26.231 [main] DDTests - ************* Deleting User by Name Started ****************
+[INFO ] 2024-06-15 16:02:27.768 [main] DDTests - ************* Deleting user by Name Ended ****************
+[INFO ] 2024-06-15 16:02:27.770 [main] StoreTests - ************* Creating order ****************
+[INFO ] 2024-06-15 16:02:29.407 [main] StoreTests - ************* Fetching order ID****************
+[INFO ] 2024-06-15 16:02:29.854 [main] StoreTests - ************* Order ID Fetched****************
+[INFO ] 2024-06-15 16:02:29.855 [main] StoreTests - ************* Order created ****************
+[INFO ] 2024-06-15 16:02:29.856 [main] StoreTests - ************* Getting order by ID****************
+[INFO ] 2024-06-15 16:02:31.561 [main] StoreTests - ************* Got Order Details****************
+[INFO ] 2024-06-15 16:02:31.563 [main] StoreTests - ************* Deleting order by ID****************
+[INFO ] 2024-06-15 16:02:33.457 [main] StoreTests - ************* Order Deleted by ID****************

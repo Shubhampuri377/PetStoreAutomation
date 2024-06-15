@@ -13,6 +13,15 @@ public class Routes {
 	public static String delete_url=base_url+"/user/{username}";
 	
 	//Store module
+	public static String post_url_store=base_url+"/store/order";
+	public static String get_url_store = base_url +"/store/order/{orderID}";
+	public static String delete_url_store =base_url+"/store/order/{orderID}";
 	
 	//Pet module
+	public static String post_url_pet =base_url+"/pet";
+	public static String get_url_pet = base_url +"/pet/{petID}";
+	public static String update_url_pet= base_url+"/pet/{petID}";
+	public static String delete_url_pet= base_url+"/pet/{petID}";
+	
+	
 }
