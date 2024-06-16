@@ -103,3 +103,57 @@
 [INFO ] 2024-06-15 16:02:31.561 [main] StoreTests - ************* Got Order Details****************
 [INFO ] 2024-06-15 16:02:31.563 [main] StoreTests - ************* Deleting order by ID****************
 [INFO ] 2024-06-15 16:02:33.457 [main] StoreTests - ************* Order Deleted by ID****************
+[INFO ] 2024-06-15 22:58:11.993 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-15 22:58:16.183 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-15 22:58:16.189 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-15 22:58:17.772 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-15 22:58:17.781 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-15 22:58:19.309 [main] PetTests - ************ Pet Name Updated **************
+[INFO ] 2024-06-15 22:58:19.312 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-15 22:58:20.844 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-15 23:00:00.120 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-15 23:00:04.245 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-15 23:00:04.251 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-15 23:00:05.641 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-15 23:00:05.646 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-15 23:00:07.248 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-15 23:00:08.774 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-15 23:03:50.235 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-15 23:03:54.331 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-15 23:03:54.341 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-15 23:03:55.824 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-15 23:03:55.830 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-15 23:03:57.227 [main] PetTests - ************ Pet Name Updated **************
+[INFO ] 2024-06-15 23:03:57.233 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-15 23:03:58.762 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-15 23:04:46.599 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-15 23:04:50.832 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-15 23:04:50.841 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-15 23:04:52.422 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-15 23:04:52.430 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-15 23:04:53.956 [main] PetTests - ************ Pet Name Updated **************
+[INFO ] 2024-06-15 23:04:53.962 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-15 23:04:55.494 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-15 23:05:23.516 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-16 15:36:09.837 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-16 15:36:14.404 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-16 15:36:14.411 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-16 15:36:15.829 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-16 15:36:15.837 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-16 15:36:17.030 [main] PetTests - ************ Pet Name Updated **************
+[INFO ] 2024-06-16 15:36:17.038 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-16 15:36:18.431 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-16 15:36:57.474 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-16 15:37:01.394 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-16 15:37:01.401 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-16 15:37:02.734 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-16 15:37:02.741 [main] PetTests - ************ Updating Pet Name**************
+[INFO ] 2024-06-16 15:37:04.359 [main] PetTests - ************ Pet Name Updated **************
+[INFO ] 2024-06-16 15:37:04.367 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-16 15:37:05.772 [main] PetTests - ************ Pet Deleting **************
+[INFO ] 2024-06-16 18:23:05.499 [main] PetTests - ************ Adding Pet **************
+[INFO ] 2024-06-16 18:23:09.868 [main] PetTests - ************ Pet Added **************
+[INFO ] 2024-06-16 18:23:09.875 [main] PetTests - ************ Getting Pet **************
+[INFO ] 2024-06-16 18:23:11.277 [main] PetTests - ************ Pet Fetched **************
+[INFO ] 2024-06-16 18:23:11.281 [main] PetTests - ************ Deleting Pet **************
+[INFO ] 2024-06-16 18:23:12.879 [main] PetTests - ************ Pet Deleting **************
